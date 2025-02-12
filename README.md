@@ -29,12 +29,12 @@
 
 
 
-## Experience 🏫: 
+<!--## Experience 🏫: 
 <p>Intern at ICT Academy</p>
-<ul>
-  <li>Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments.</li>
-  <li>Gained valuable experience working within a specific industry, applying learned concepts directly into relevant work situations.</li>
-</ul>
+<!-- <ul> -->
+<!--   <li>Supported staff members in their daily tasks, reducing workload burden and allowing for increased focus on higher-priority assignments.</li> -->
+<!--   <li>Gained valuable experience working within a specific industry, applying learned concepts directly into relevant work situations.</li> -->
+<!-- </ul> -->
 
 
 
