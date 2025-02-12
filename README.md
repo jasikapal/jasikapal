@@ -16,8 +16,8 @@
 
 
 ## Resume:
-<a href="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/Abhinandan_Resume.jpg">
-  <img align="center" src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/Abhinandan_Resume.jpg" width="51" />
+<a href="https://github.com/jasikapal/jasikapal/blob/main/icons/JasikaPal.jpg">
+  <img align="center" src="https://github.com/jasikapal/jasikapal/blob/main/icons/JasikaPal.jpg" width="51" />
 </a>
 
 
