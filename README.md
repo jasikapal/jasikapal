@@ -8,7 +8,7 @@
 </h2>
 <div align="center">
   <p>Welcome to my GitHub profile! I'm a passionate MERN stack developer with a knack for creating dynamic and responsive web applications. Here's a little more about me and what I do.</p>
-  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+  <img alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM0b256bnRvenYwOThjbXUxNDBtbHdnMTVnZzBpZXAxZ2Uxc2ZrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jt7bAtEijhurm/giphy.gif" />
 </div>
 
 ## About me <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" />
@@ -139,7 +139,7 @@
   <a href="https://www.instagram.com/_abhinandan_daksh_/">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/insta.gif" alt="Instagram" style="height:100px">
   </a>
-  <a href="https://www.linkedin.com/in/abhinandan-daksh-788a9a243/">
+  <a href="https://www.linkedin.com/in/jasika-pal-525925323/">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/LINKEDIN.gif" alt="LinkedIn" style="height:100px">
   </a>
   <a href="https://x.com/Abhinandan_2712">
