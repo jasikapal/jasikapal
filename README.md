@@ -125,7 +125,7 @@
 ## Contact Me 🌐:
 <p align="center">
   <a href="mailto:jasikapal@gmail.com">
-    <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" alt="Gmail" style="height:100px">
+    <img src="https://github.com/jasikapal/jasikapal/blob/main/icons/gmail.gif" alt="Gmail" style="height:100px">
   </a>
 <!--   <a href="https://www.instagram.com/_abhinandan_daksh_/">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/insta.gif" alt="Instagram" style="height:100px">
