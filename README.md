@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Jasika</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=JasikaPal&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
   <a href="https://678e86a8b0ed6c510f2d3e09--lighthearted-custard-cffc80.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="height:30px;">
