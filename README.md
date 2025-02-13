@@ -58,7 +58,7 @@
 </p>
 
 ## Projects ✍️:
-<h4><a href="">VediCode</a></h4>
+<h4><a href="">Wanderlust</a></h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -72,12 +72,12 @@
   
 </p>
 <ul>
-  <li>Implemented secure payment processing functionality, enabling users to securely purchase courses using industry-standard encryption techniques and payment gateways.</li>
-  <li>Real-time Feedback: Instant feedback on code submissions to help users understand their mistakes and improve.</li>
-  <li>User Profiles and Leaderboards: Profiles showcasing user achievements and leaderboards to highlight top performers.</li>
+  <li>Wanderlust is a MERN stack-based tourism and ticket booking platform for exploring destinations and managing trips</li>
+  <li>Browse and explore travel destinations</li>
+  <li>Secure user authentication and account management</li>
 </ul>
 
-<h4><a href="https://connectify-xi-plum.vercel.app/login">Connectify</a></h4>
+<h4><a href="https://connectify-xi-plum.vercel.app/login">Spotify</a></h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -92,12 +92,12 @@
   
 </p>
 <ul>
-  <li>Developed a ReactJS-based web application for user networking, featuring real-time messaging, profile management, and a feed system.</li>
-  <li>Designed and implemented a responsive UI using Tailwind CSS, delivering a consistent experience across devices.</li>
-  <li>Built a secure authentication system with JWT and Node.js, ensuring safe user login and registration.</li>
+  <li>Spotify Clone is a static front-end project replicating Spotify's interface, created using only HTML and CSS.</li>
+  <li>Focuses on HTML structure and CSS styling techniques.</li>
+  <li>Static browsing experience for music categories and playlists.</li>
 </ul>
 
-<h4><a href="https://weather-app-eight-black-10.vercel.app/">Weather App</a></h4>
+<h4><a href="https://weather-app-eight-black-10.vercel.app/">Personal Portfolio</a></h4>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -106,21 +106,12 @@
   
 </p>
 <ul>
-  <li>Integrated a weather API to fetch real-time weather data, and that is user-friendly, with a clear and intuitive interface. Parsed and displayed the retrieved weather information, including temperature, humidity, and conditions.</li>
-  <li>The primary goal of a weather forecasting app is to offer users the ability to plan their activities based on anticipated weather conditions</li>
-  <li>Location-Based Services: Allows users to search for weather information by city or use geolocation to get weather data for their current location.</li>
+  <li>A dynamic personal portfolio website built with HTML, CSS, and JavaScript to showcase projects, skills, and achievements.</li>
+  <li>Sections for resume, skills, and contact information.</li>
+  <li>Gallery displaying web development projects.</li>
 </ul>
 
-<h4><a href="https://abhinandandaksh.github.io/JasStoreProject/">Jas Store</a></h4>
-<p>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</p>
-<ul>
-  <li>User-Friendly Navigation: Easy maneuvering through categories and products using a clean and intuitive interface.</li>
-  <li>Shopping Cart: Allows users to add items to their cart, view cart details, and proceed to checkout.</li>
-</ul>
+
 
 ## Stats 📊:
 <div align="center">
@@ -136,15 +127,15 @@
   <a href="mailto:jasikapal@gmail.com">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/gmail.gif" alt="Gmail" style="height:100px">
   </a>
-  <a href="https://www.instagram.com/_abhinandan_daksh_/">
+<!--   <a href="https://www.instagram.com/_abhinandan_daksh_/">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/insta.gif" alt="Instagram" style="height:100px">
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/jasika-pal-525925323/">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/LINKEDIN.gif" alt="LinkedIn" style="height:100px">
   </a>
-  <a href="https://x.com/Abhinandan_2712">
+<!--   <a href="https://x.com/Abhinandan_2712">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/twitter.gif" alt="Twitter" style="height:100px">
-  </a>
+  </a> -->
 </p>
 
 
