@@ -131,7 +131,7 @@
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/insta.gif" alt="Instagram" style="height:100px">
   </a> -->
   <a href="https://www.linkedin.com/in/jasika-pal-525925323/">
-    <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/LINKEDIN.gif" alt="LinkedIn" style="height:100px">
+    <img src="https://github.com/jasikapal/jasikapal/blob/main/icons/LINKEDIN.gif" alt="LinkedIn" style="height:100px">
   </a>
 <!--   <a href="https://x.com/Abhinandan_2712">
     <img src="https://github.com/AbhinandanDaksh/AbhinandanDaksh/blob/main/icons/twitter.gif" alt="Twitter" style="height:100px">
