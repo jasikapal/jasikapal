@@ -77,6 +77,20 @@
   <li>Secure user authentication and account management</li>
 </ul>
 
+<h4><a href="https://weather-app-eight-black-10.vercel.app/">Weather App</a></h4>
+<p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  
+</p>
+<ul>
+  <li>Integrated a weather API to fetch real-time weather data, and that is user-friendly, with a clear and intuitive interface. Parsed and displayed the retrieved weather information, including temperature, humidity, and conditions.</li>
+  <li>The primary goal of a weather forecasting app is to offer users the ability to plan their activities based on anticipated weather conditions</li>
+  <li>Location-Based Services: Allows users to search for weather information by city or use geolocation to get weather data for their current location.</li>
+</ul>
+
 <h4><a href="https://connectify-xi-plum.vercel.app/login">Spotify</a></h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
